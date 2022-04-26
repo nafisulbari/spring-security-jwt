@@ -1,4 +1,4 @@
-**About**
+## About
 
 This is a demo project to test REST API security using SpringBoot and jwt.
 
@@ -14,7 +14,7 @@ The website has 4 pages
 | [loaclhost/admin](localhost/admin)               | Requires authentication and authorization |
 | [localhost/authenticate](localhost/authenticate) | Used to authenticate the user |
 
-**Instructions**
+## Instructions
 1. Use Postman to perfom this demo
 2. Goto [localhost](localhost) 
 3. An username and password is automatically generated
